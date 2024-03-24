@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, WELCOME TO MY PORTOFOLIO 👋
+![Blue Modern Gradient Technology LinkedIn Banner (1)](https://github.com/sitihafsoh/sitihafsoh/assets/107082735/f7d29bc3-2720-4323-b808-184c9258314c)
+
 
 <!--
 **sitihafsoh/sitihafsoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
