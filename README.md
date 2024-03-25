@@ -12,10 +12,15 @@ These are the courses I took to pursue my dream:
 4. Coursera: Google Data Analytics (May 2023 – February 2024)
 5. ID Camp X Dicoding: Data Science (October – November 2023)
 
-# Portofolio 📜
-### Data Analytics Portofolio
-1. 
+# Portofolio 📜 
+### 🚀 Data Analytics Portofolio
+1. Data Analysis Project Using Python [link portofolio] (https://github.com/sitihafsoh/submission.git)
 
+### 🛶 Dashboard Portofolio
+1. Pizza Sales: Customer Analysis Dashboard using Tableau [link portofolio] (https://public.tableau.com/views/PizzaSalesCustomerAnalysisDashboard/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+   
+### 🛫 Machine Learning for Data Science Portofolio
+1. Image Classification Using Python [link portofolio] (https://github.com/sitihafsoh/submission-klasifikasi-gambar.git)
 
 
 
