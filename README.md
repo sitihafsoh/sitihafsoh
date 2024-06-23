@@ -11,7 +11,8 @@ These are the courses I took to pursue my dream:
 3. MySkill: Fullstack Ms. Excel Basic to Advance (November – December 2022)
 4. Coursera: Google Data Analytics (May 2023 – February 2024)
 5. ID Camp X Dicoding: Data Science (October – November 2023)
-6. Purwadhika Digital Technology School (April - August 2024)
+6. DBS Foundation Coding Camp 2024 X Dicoding (February - June 2024)
+7. Purwadhika Digital Technology School (April - August 2024)
 
 # Portofolio 📜 
 ### 🚀 Data Analytics Portofolio
