@@ -2,7 +2,7 @@
 ![Blue Modern Gradient Technology LinkedIn Banner (1)](https://github.com/sitihafsoh/sitihafsoh/assets/107082735/f7d29bc3-2720-4323-b808-184c9258314c)
 
 # About Me 🧕
-Siti Hafsoh, S.E. is a recent graduate who is currently unemployed. She completed her degree in Islamic Banking and has experience working as a private tutor for students ranging from kindergarten to high school. Additionally, she has worked as an online shop administrator. Hafsoh is passionate about pursuing a career as a data scientist and is actively working towards achieving her dream.
+Hello, I'm Siti Hafsoh! I hold a Bachelor's degree in Islamic banking, which has provided me with a strong foundation in finance and banking. My interest has shifted to data and machine learning, and I'm now actively pursuing a career in this field. I've been building my skills through self-study, online courses, and bootcamps. My technical skills include **Python, SQL, Tableau, and spreadsheets**. I'm ready to apply my analytical abilities and passion for data to contribute to a data-driven team.
 
 # Courses 📔
 These are the courses I took to pursue my dream:
