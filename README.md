@@ -10,15 +10,15 @@ These are the courses I took to pursue my dream:
 2. Digitalent Kominfo x DQLab: Fresh Graduate Academy - Data Science for Beginners (May – June 2022)
 3. MySkill: Fullstack Ms. Excel Basic to Advance (November – December 2022)
 4. Coursera: Google Data Analytics (May 2023 – February 2024)
-5. ID Camp X Dicoding (Kelas Basic & Beginner): Data Science (October – November 2023)
-6. DBS Foundation Coding Camp 2024 X Dicoding (Kelas Basic & Beginner): Machine Learning Developer (February - June 2024)
-7. Purwadhika Digital Technology School: Data Science & Machine Learning (April - August 2024)
+5. ID Camp X Dicoding (Kelas Basic & Beginner): Data Science (September - December 2023)
+6. DBS Foundation Coding Camp 2024 X Dicoding (Kelas Basic & Beginner): Machine Learning Developer (January - June 2024)
+7. Purwadhika Digital Technology School: Data Science & Machine Learning (April - November 2024)
 
 # Portofolio 📜 
 ### 🚀 Data Analytics Portofolio
 1. Data Analysis Project Using Python [link portofolio] (https://github.com/sitihafsoh/submission.git)
 
-### 🛶 Dashboard Portofolio
+### 🛶 Data Visualization Portofolio
 1. Pizza Sales: Customer Analysis Dashboard using Tableau [link portofolio] (https://public.tableau.com/views/PizzaSalesCustomerAnalysisDashboard/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
    
 ### 🛫 Machine Learning for Data Science Portofolio
