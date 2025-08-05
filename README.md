@@ -16,13 +16,17 @@ These are the courses I took to pursue my dream:
 
 # Portofolio 📜 
 ### 🚀 Data Analytics Portofolio
-1. Data Analysis Project Using Python [link portofolio] (https://github.com/sitihafsoh/submission.git)
+1. SaaS Sales Performance Analysis: An Amazon Case Study (Python) [link portofolio] (https://github.com/sitihafsoh/aws-saas-sales.git) 
+2. Maven Roasters: Coffee Shop Sales Analysis (Excel 365) [link portofolio] (https://github.com/sitihafsoh/coffee-shop-sales.git)
 
 ### 🛶 Data Visualization Portofolio
 1. Pizza Sales: Customer Analysis Dashboard using Tableau [link portofolio] (https://public.tableau.com/views/PizzaSalesCustomerAnalysisDashboard/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
    
 ### 🛫 Machine Learning for Data Science Portofolio
-1. Image Classification Using Python [link portofolio] (https://github.com/sitihafsoh/submission-klasifikasi-gambar.git)
+1. Predicting Customer Lifetime Value with a Regression Model (Python) [link portofolio] (https://github.com/sitihafsoh/customer-lifetime-value.git)
+2. Sentiment Analysis of Maxim User Reviews (Python) [link portofolio] (https://github.com/sitihafsoh/analisis-sentimen-ulasan-maxim.git)
+3. Building a Rock-Paper-Scissors Image Classifier with TensorFlow (Python) [link portofolio] (https://github.com/sitihafsoh/submission-klasifikasi-gambar.git)
+
 
 
 
