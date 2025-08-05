@@ -23,9 +23,9 @@ These are the courses I took to pursue my dream:
 1. Pizza Sales: Customer Analysis Dashboard using Tableau [link portofolio](https://public.tableau.com/views/PizzaSalesCustomerAnalysisDashboard/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
    
 ### 🛫 Machine Learning for Data Science Portofolio
-1. Predicting Customer Lifetime Value with a Regression Model (Python)[link portofolio] (https://github.com/sitihafsoh/customer-lifetime-value.git)
+1. Predicting Customer Lifetime Value with a Regression Model (Python)[link portofolio](https://github.com/sitihafsoh/customer-lifetime-value.git)
 2. Sentiment Analysis of Maxim User Reviews (Python) [link portofolio](https://github.com/sitihafsoh/analisis-sentimen-ulasan-maxim.git)
-3. Building a Rock-Paper-Scissors Image Classifier with TensorFlow (Python)[link portofolio] (https://github.com/sitihafsoh/submission-klasifikasi-gambar.git)
+3. Building a Rock-Paper-Scissors Image Classifier with TensorFlow (Python)[link portofolio](https://github.com/sitihafsoh/submission-klasifikasi-gambar.git)
 
 
 
