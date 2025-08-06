@@ -23,6 +23,7 @@ These are the courses I took to pursue my dream:
 1. Pizza Sales: Customer Analysis Dashboard using Tableau [link portofolio](https://public.tableau.com/shared/75RNK96BG?:display_count=n&:origin=viz_share_link)
 2. Marketing Dashboard for Amazon SaaS Sales (Tableau) (Tableau) [link portofolio](https://public.tableau.com/shared/6DQHJ9RHK?:display_count=n&:origin=viz_share_link)
 <img width="1052" height="548" alt="d1 segmentasi pelanggan" src="https://github.com/user-attachments/assets/850928d5-165a-4350-8ec7-6f4fb100815f" />
+Note: klik the link for interactive dashboard
  
 ### 🛫 Machine Learning for Data Science Portofolio
 1. Predicting Customer Lifetime Value with a Regression Model (Python)[link portofolio](https://github.com/sitihafsoh/customer-lifetime-value.git)
