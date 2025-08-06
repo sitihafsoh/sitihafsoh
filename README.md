@@ -23,8 +23,7 @@ These are the courses I took to pursue my dream:
 1. Pizza Sales: Customer Analysis Dashboard using Tableau [klik here for interactive dashboard](https://public.tableau.com/shared/75RNK96BG?:display_count=n&:origin=viz_share_link)
 2. Marketing Dashboard for Amazon SaaS Sales (Tableau) (Tableau) [klik here for interactive dashboard](https://public.tableau.com/shared/6DQHJ9RHK?:display_count=n&:origin=viz_share_link)
 <img width="1052" height="548" alt="d1 segmentasi pelanggan" src="https://github.com/user-attachments/assets/850928d5-165a-4350-8ec7-6f4fb100815f" />
-3. Maven Roasters Coffee Shop Sales Visualization (Tableau)
-[klik here for interactive dashboard](https://public.tableau.com/views/CoffeeShopSales_17468862700430/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+3. Maven Roasters Coffee Shop Sales Visualization (Tableau) [klik here for interactive dashboard](https://public.tableau.com/views/CoffeeShopSales_17468862700430/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 <img width="1134" height="649" alt="Dashboard" src="https://github.com/user-attachments/assets/0e07f01b-c6cf-4d15-9ee0-84d5a5bf4a5c" />
 
 ### 🛫 Machine Learning for Data Science Portofolio
