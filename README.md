@@ -20,11 +20,12 @@ These are the courses I took to pursue my dream:
 2. Maven Roasters: Coffee Shop Sales Analysis (Excel 365) [link portofolio](https://github.com/sitihafsoh/coffee-shop-sales.git)
 
 ### 🛶 Data Visualization Portofolio
-1. Pizza Sales: Customer Analysis Dashboard using Tableau [link portofolio](https://public.tableau.com/shared/75RNK96BG?:display_count=n&:origin=viz_share_link)
-2. Marketing Dashboard for Amazon SaaS Sales (Tableau) (Tableau) [link portofolio](https://public.tableau.com/shared/6DQHJ9RHK?:display_count=n&:origin=viz_share_link)
+1. Pizza Sales: Customer Analysis Dashboard using Tableau [klik here for interactive dashboard](https://public.tableau.com/shared/75RNK96BG?:display_count=n&:origin=viz_share_link)
+2. Marketing Dashboard for Amazon SaaS Sales (Tableau) (Tableau) [klik here for interactive dashboard](https://public.tableau.com/shared/6DQHJ9RHK?:display_count=n&:origin=viz_share_link)
 <img width="1052" height="548" alt="d1 segmentasi pelanggan" src="https://github.com/user-attachments/assets/850928d5-165a-4350-8ec7-6f4fb100815f" />
-Note: klik the link for interactive dashboard
- 
+3. Maven Roasters Coffee Shop Sales Visualization (Tableau) [klik here for interactive dashboard](https://public.tableau.com/views/CoffeeShopSales_17468862700430/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+<img width="1134" height="649" alt="Dashboard" src="https://github.com/user-attachments/assets/0e07f01b-c6cf-4d15-9ee0-84d5a5bf4a5c" />
+
 ### 🛫 Machine Learning for Data Science Portofolio
 1. Predicting Customer Lifetime Value with a Regression Model (Python)[link portofolio](https://github.com/sitihafsoh/customer-lifetime-value.git)
 2. Sentiment Analysis of Maxim User Reviews (Python) [link portofolio](https://github.com/sitihafsoh/analisis-sentimen-ulasan-maxim.git)
